@@ -53,3 +53,27 @@
     width: 100%;
     height: 150px;
 }
+
+.solicitarAmigurumi {
+    background: url(/assets/images/portada3.jpg) no-repeat;
+    background-size: cover;
+    padding: 250px;
+}
+
+.amigurumiNavidad {
+    background: url(/assets/images/portada2.jpg) no-repeat;
+    background-size: cover;
+    padding: 250px;
+}
+
+.personalizar {
+    border-radius: 15px;
+    width: 100%;
+    height: 350px;
+}
+
+.contactar {
+    background: url(/assets/images/FondoContacto.jpg) no-repeat;
+    background-size: cover;
+    padding: 50px;
+}
