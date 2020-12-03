@@ -1,0 +1,55 @@
+.fondo-footer {
+    background-color: rgb(5, 21, 40);
+}
+
+.mapa {
+    background: url(/assets/images/mapa.jpg) no-repeat;
+    background-size: cover;
+    padding: 50px;
+}
+
+.fondo-cont {
+    background-color: rgb(5, 21, 40);
+    color: white;
+}
+
+.badge-mapa-btn {
+    background-color: rgb(5, 21, 40);
+    color: #fff;
+    border-radius: 150px;
+}
+
+.linea-roja {
+    width: 100%;
+    height: 1px;
+    background-color: rgb(165, 0, 0);
+}
+
+.tamañoLetra {
+    font-size: 10px;
+}
+
+.imgCategorias {
+    width: 100%;
+    height: 200px;
+}
+
+.bordeColumna {
+    border-radius: 15px;
+    padding: 15px;
+    -webkit-box-shadow: 10px 10px 24px -12px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 24px -12px rgba(0, 0, 0, 0.75);
+    box-shadow: 10px 10px 24px -12px rgba(0, 0, 0, 0.75);
+}
+
+.imgProductos {
+    border-radius: 15px;
+    width: 100%;
+    height: 200px;
+}
+
+.ImgSeccionMas {
+    border-radius: 15px;
+    width: 100%;
+    height: 150px;
+}
