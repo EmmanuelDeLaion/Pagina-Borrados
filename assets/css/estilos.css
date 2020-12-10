@@ -1,23 +1,26 @@
-.fondo-footer {
+*{
+    font-family: 'Poppins', Geneva, Tahoma, sans-serif;
+}
+
+footer {
     background-color: rgb(5, 21, 40);
+    color: #fff;
 }
 
 .mapa {
-    background: url(/assets/images/mapa.jpg) no-repeat;
+    background-image: url(/assets/images/mapa.jpg);
     background-size: cover;
-    padding: 50px;
-}
+    width: 100%;
+    height: 300px;
+    padding: 20px;
+ }
 
 .fondo-cont {
     background-color: rgb(5, 21, 40);
     color: white;
 }
 
-.badge-mapa-btn {
-    background-color: rgb(5, 21, 40);
-    color: #fff;
-    border-radius: 150px;
-}
+ 
 
 .linea-roja {
     width: 100%;
@@ -46,6 +49,7 @@
     border-radius: 15px;
     width: 100%;
     height: 200px;
+    background-size: cover;
 }
 
 .ImgSeccionMas {
@@ -55,15 +59,17 @@
 }
 
 .solicitarAmigurumi {
-    background: url(/assets/images/portada3.jpg) no-repeat;
+    background-image: url(/assets/images/portada3.jpg);
     background-size: cover;
-    padding: 250px;
+    width: 100%;
+    height: 450px;
 }
 
 .amigurumiNavidad {
-    background: url(/assets/images/portada2.jpg) no-repeat;
+    background-image: url(/assets/images/portada2.jpg);
     background-size: cover;
-    padding: 250px;
+    width: 100%;
+    height: 450px;
 }
 
 .personalizar {
@@ -73,7 +79,10 @@
 }
 
 .contactar {
-    background: url(/assets/images/FondoContacto.jpg) no-repeat;
+    background-image: url(/assets/images/FondoContacto.jpg);
     background-size: cover;
+    width: 100%;
     padding: 50px;
-}
+ }
+
+ 
